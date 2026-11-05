@@ -1,6 +1,6 @@
 {
-  "packages": [
-    "go",
-    "nodejs"
-  ]
+  "packages": {
+    "go": "latest",
+    "nodejs": "latest"
+  }
 }
